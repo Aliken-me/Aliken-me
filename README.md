@@ -45,8 +45,8 @@ Space Systems Engineer and M.Sc. candidate at **Sharif University of Technology*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliken-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Aliken's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliken-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aliken-me&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aliken-me&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
